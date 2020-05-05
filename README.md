@@ -4,6 +4,7 @@ Refactoring HTML and CSS for existing Horiseon page.
 
 ## Description
 -Fixed broken navigation links
+
 -Cleaned up code, added comments to separate the different sections and styles on the page.
 -Consolidated CSS tags and properties to cut down on clutter in the stylesheet. 
 -Updated HTML to semantic tags.

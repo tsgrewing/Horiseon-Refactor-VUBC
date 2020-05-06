@@ -26,7 +26,7 @@ h1 {
     color: #d9dcd6;
 }
 
-/*NAV BAR*/
+/*NAV BAR LINKS*/
 nav {
     display: inline-block;
     padding-top: 15px;
@@ -50,7 +50,7 @@ a {
     text-decoration: none;
 }
 
-/*TOP/BACKGROUND IMAGE*/
+/*TOP IMAGE*/
 .hero {
     height: 800px;
     width: 100%;
